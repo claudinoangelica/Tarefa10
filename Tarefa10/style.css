@@ -1,0 +1,60 @@
+
+
+#elemento-pai{
+    width: 900px;
+    height: 600px;
+    float: inherit;
+    background-color: rgb(211, 208, 203);
+    position: relative;
+    text-align: center;
+    margin: auto;
+    margin-top: 200px;
+}
+
+.container{
+    position: relative;
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    top: 50px;
+    left: 20px;
+    
+}
+
+.box{
+    position: relative;
+    top: 10px;
+    bottom: 10px;
+    left: 0px;
+    width: 440px;
+    height: 40px;
+    padding: 15px;
+    background-color: rgb(231, 226, 228);
+    text-align: center;
+    font-family: 'reboto',sans-serif;
+    font-size: 40px;
+    font-weight: oblique;
+    margin: 5px 5px 5px 15px;
+}
+
+img{
+    position: relative;
+    top: 10px;
+    width: 390px;
+    height: 390px;
+    left: 0px;
+    right: 10px;
+}
+
+
+p{
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    margin-left: 140px;
+    top: 50px;
+    left: 400px;
+    
+    font-family: cursive;
+
+}
